@@ -16,6 +16,11 @@ a {
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
 }
+input {
+	-webkit-appearance: none;
+	-webkit-border-radius:0; 
+    border-radius:0;
+}
 :root {
 	font-size: 16px;
 }
